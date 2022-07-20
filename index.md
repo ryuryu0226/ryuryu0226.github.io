@@ -24,6 +24,9 @@
 * 浦宗 龍生，池田 聖，石塚 裕己，大城 理：固視の3次元位置と仮想物体の表面形状を用いた視線計測器の自動較正，日本バーチャルリアリティ学会 第62回複合現実感研究会予稿集，2021
 
 ## 制作物
+* ARろけしぇあ～ (AR位置情報共有アプリ), 2022
+  * [GitHub](https://github.com/ryuryu0226/ARLocationSharing)
+  * デモ動画 [movie](https://youtube.com/shorts/zdm9VKwe08s?feature=share)
 * グランドサーフィン，第27回 国際学生対抗バーチャルリアリティコンテスト (IVRC, International collegiate Virtual Reality Contest)，2019．
   * 第24回日本バーチャルリアリティ学会大会論文集 [pdf](http://conference.vrsj.org/ac2019/program/common/doc/pdf/6B-10.pdf)
   * デモ動画 [movie](https://www.youtube.com/watch?v=KmB_KYzaF6Q)
