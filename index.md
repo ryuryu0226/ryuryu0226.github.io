@@ -1,6 +1,6 @@
 # ryuryu0226
 
-![myicon](https://pbs.twimg.com/profile_images/1142098706176466944/NTaaVEEK.jpg_bigger)
+![myicon](https://pbs.twimg.com/profile_images/1588450581534101505/f7LI0zxF_200x200.jpg)
 
 ## プロフィール
 * Ryusei Uramune
@@ -14,16 +14,18 @@
 * Ryusei Uramune, Hiroki Ishizuka, Takefumi Hiraki, Yoshihiro Kawahara, Sei Ikeda, and Osamu Oshiro. "HaPouch: A Miniaturized, Soft, and Wearable Haptic Display Device Using a Liquid-to-Gas Phase Change Actuator." IEEE Access, vol.10, pp.16830-16842, 2022. [pdf](https://ieeexplore.ieee.org/document/9674885)
 
 ## 国際会議
+* Ryusei Uramune, Kazuki Sawamura, Sei Ikeda, Hiroki Ishizuka, and Osamu Oshiro. "Gaze Depth Estimation for In-vehicle AR Displays." Proceedings of the Augmented Humans International Conference 2023, pp.323-325, 2023. [pdf](https://dl.acm.org/doi/abs/10.1145/3582700.3583707)
 * Ryusei Uramune, Hiroki Ishizuka, Takefumi Hiraki, Yoshihiro Kawahara, Sei Ikeda, and Osamu Oshiro. "HaPouch: Soft and Wearable Haptic Display Devices using Liquid-to-gas Phase Change Actuator." Proceedings of the 2020 ACM Symposium on User Interface Software and Technology (UIST2020), pp.53-55, 2020. [pdf](https://dl.acm.org/doi/10.1145/3379350.3416183)
 * Ryusei Uramune, Hiroki Ishizuka, Takefumi Hiraki, Yoshihiro Kawahara, Sei Ikeda, and Osamu Oshiro. "Inflatable Soft Haptic Device using Liquid-to-gas Phase Change Actuator." Proceedings of the 2020 Eurohaptics conference, 2020.
 
 ## 国内会議
+* 澤村和樹，浦宗龍生，池田聖，石塚裕己，大城理：車両移動による運動視差を利用した半透明像注視判定，第66回複合現実感研究会予稿集，2022. [pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=220283&item_no=1&page_id=13&block_id=8)
 * 浦宗龍生，池田聖，石塚裕己，大城理：固視クラスタの再投影誤差に基づく視線自動較正，第25回 画像の認識・理解シンポジウム，2022.
 * 澤村和樹，浦宗龍生，池田聖，石塚裕己，大城理：運動視差に基づく半透明像注視判定法，第66回 システム制御情報学会 研究発表講演会，2022.
 * 浦宗龍生，池田聖，石塚裕己，大城理：頭部移動中の3次元注視点に基づく固視検出評価法，ユビキタス・ウェアラブルワークショップ，2021.
 * 澤村和樹，浦宗龍生，池田聖，石塚裕己，大城理：移動中の車両における窓型ディスプレイを用いた半透明提示像の注視判定，ユビキタス・ウェアラブルワークショップ，2021.
-* 浦宗龍生，石塚裕己，平木剛史，川原圭博，池田聖，大城理：高精度な力覚提示に向けた気液相変化アクチュエータの内圧計測法の検討，ロボティクス・メカトロニクス講演会予稿集，2021.
-* 浦宗 龍生，池田 聖，石塚 裕己，大城 理：固視の3次元位置と仮想物体の表面形状を用いた視線計測器の自動較正，日本バーチャルリアリティ学会 第62回複合現実感研究会予稿集，2021.
+* 浦宗龍生，石塚裕己，平木剛史，川原圭博，池田聖，大城理：高精度な力覚提示に向けた気液相変化アクチュエータの内圧計測法の検討，ロボティクス・メカトロニクス講演会予稿集，2021. [pdf](https://www.jstage.jst.go.jp/article/jsmermd/2021/0/2021_1P1-M10/_article/-char/ja/)
+* 浦宗 龍生，池田 聖，石塚 裕己，大城 理：固視の3次元位置と仮想物体の表面形状を用いた視線計測器の自動較正，日本バーチャルリアリティ学会 第62回複合現実感研究会予稿集，2021. [pdf](http://sigmr.vrsj.org/events/pdfs/2021Jan/MR2021-03.pdf)
 
 ## 受賞等
 * 2022年7月，Bioengineering Colloquium 2022 Best Presentation Award
