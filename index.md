@@ -4,9 +4,14 @@
 
 ## プロフィール
 
-- Ryusei Uramune
-- Osaka univ.
-- ryuryu19990226＠gmail.com (＠は半角にしてください)
+- 浦宗龍生 (Ryusei Uramune)
+- 経歴
+  - 2017.4~2021.3: 大阪大学
+  - 2021.4~2023.3: 大阪大学大学院
+  - 2023.4~2023.9: ヤフー株式会社
+  - 2023.10~: LINEヤフー株式会社
+  - 2025.9~: 龍谷大学大学院
+- ruramune＠acm.org (＠は半角にしてください)
 - [Twitter](https://twitter.com/ryuryu19990226)
 - [Zenn](https://zenn.dev/ryuryu)
 - [GitHub](https://github.com/ryuryu0226)
@@ -39,7 +44,12 @@
 - 2019年11月，IVRC 決勝大会 チームラボ賞
 - 2019年9月，IVRC 予選大会1位通過
 
-## 制作物
+## その他
+
+<details>
+<summary>学生時代の活動</summary>
+
+### 制作物
 
 - ARろけしぇあ～ (AR位置情報共有アプリ), 2022.
   - [GitHub](https://github.com/ryuryu0226/ARLocationSharing)
@@ -48,7 +58,7 @@
   - 第24回日本バーチャルリアリティ学会大会論文集 [pdf](http://conference.vrsj.org/ac2019/program/common/doc/pdf/6B-10.pdf)
   - デモ動画 [movie](https://www.youtube.com/watch?v=KmB_KYzaF6Q)
 
-## 輪講資料
+### 輪講資料
 
 - Guyton and Hall Textbook of Medical Physiology, 2022. [link](https://www.elsevier.com/books/guyton-and-hall-textbook-of-medical-physiology/hall/978-0-323-59712-8)
   - The Eye: Ⅲ. Central Neurophysiology of Vison [pdf](https://drive.google.com/file/d/1WoEZDZPFWpJVpD3w1_pVi7OcRtXIVJUq/view?usp=sharing)
@@ -62,3 +72,5 @@
   - Chapter3: An Ancient Renderer Made Modern [pdf](https://drive.google.com/file/d/1UVJg_FvDY2jXT2E36XBVAUm3bw_JkUJs/view?usp=sharing)
   - Chapter7: Essential Mathematics and the Geometry of 2-Space and 3-Space [pdf](https://drive.google.com/file/d/1UY2GQsGcaMxOsBv5OqlQzasDigpLIIne/view?usp=sharing)
   - Chapter8: A Simple Way to Describe in 2D and 3D [pdf](https://drive.google.com/file/d/1UVC6YBUjrh1z4ZsGoZk0VIht7Rj0s75f/view?usp=sharing)
+
+</details>
