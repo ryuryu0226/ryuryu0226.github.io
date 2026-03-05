@@ -22,12 +22,15 @@
 
 ## 国際会議
 
+- Soko Inoue, Ryusei Uramune, and Sei Ikeda. "Translational velocity in a fixation-based automatic gaze calibration method." The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025), 2025.
 - Ryusei Uramune, Kazuki Sawamura, Sei Ikeda, Hiroki Ishizuka, and Osamu Oshiro. "Gaze Depth Estimation for In-vehicle AR Displays." Proceedings of the Augmented Humans International Conference 2023, pp.323-325, 2023. [pdf](https://dl.acm.org/doi/abs/10.1145/3582700.3583707)
 - Ryusei Uramune, Hiroki Ishizuka, Takefumi Hiraki, Yoshihiro Kawahara, Sei Ikeda, and Osamu Oshiro. "HaPouch: Soft and Wearable Haptic Display Devices using Liquid-to-gas Phase Change Actuator." Proceedings of the 2020 ACM Symposium on User Interface Software and Technology (UIST2020), pp.53-55, 2020. [pdf](https://dl.acm.org/doi/10.1145/3379350.3416183)
 - Ryusei Uramune, Hiroki Ishizuka, Takefumi Hiraki, Yoshihiro Kawahara, Sei Ikeda, and Osamu Oshiro. "Inflatable Soft Haptic Device using Liquid-to-gas Phase Change Actuator." Proceedings of the 2020 Eurohaptics conference, 2020.
 
 ## 国内会議
 
+- 井上想子，浦宗龍生，池田聖：固視検出に基づく視線自動較正法における並進速度の影響，第30回日本バーチャルリアリティ学会大会論文集，2025. [pdf](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202102211074882595)
+- 中町礼文，浦宗龍生，吉橋亮太，和田有輝也，北田俊輔，牧田光晴：日本語の広告画像向けタイポグラフィ属性の生成型解析：小規模 VLM の LoRA 微調整による検証，第20回言語処理若手シンポジウム，2025.
 - 澤村和樹，浦宗龍生，池田聖，石塚裕己，大城理：車両移動による運動視差を利用した半透明像注視判定，第66回複合現実感研究会予稿集，2022. [pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=220283&item_no=1&page_id=13&block_id=8)
 - 浦宗龍生，池田聖，石塚裕己，大城理：固視クラスタの再投影誤差に基づく視線自動較正，第25回 画像の認識・理解シンポジウム，2022.
 - 澤村和樹，浦宗龍生，池田聖，石塚裕己，大城理：運動視差に基づく半透明像注視判定法，第66回 システム制御情報学会 研究発表講演会，2022.
