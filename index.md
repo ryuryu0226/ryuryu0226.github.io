@@ -12,7 +12,7 @@
   - 2023.10~: LINEヤフー株式会社
   - 2025.9~: 龍谷大学大学院
 - ruramune＠acm.org (＠は半角にしてください)
-- [Twitter](https://twitter.com/ryuryu19990226)
+- [X](https://x.com/ryuryu_0226)
 - [Zenn](https://zenn.dev/ryuryu)
 - [GitHub](https://github.com/ryuryu0226)
 
@@ -49,7 +49,7 @@
 
 ## その他
 
-<details>
+<details markdown="1">
 <summary>学生時代の活動</summary>
 
 ### 制作物
